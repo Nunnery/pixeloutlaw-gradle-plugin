@@ -1,5 +1,5 @@
 plugins {
-    kotlin("jvm") version "1.5.21" apply false
+    kotlin("jvm") version "2.1.10" apply false
     id("io.pixeloutlaw.gradle")
 }
 
